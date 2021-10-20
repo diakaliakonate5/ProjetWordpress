@@ -1,0 +1,28 @@
+{
+  "name": "phonee",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "4843d0d6050dd508d4c101a334f46db2",
+      "css": "emo-shoot",
+      "code": 59408,
+      "src": "fontelico"
+    },
+    {
+      "uid": "23a1de57eb7b0c8281656a3ddadf3ee3",
+      "css": "phone-circled",
+      "code": 59392,
+      "src": "elusive"
+    },
+    {
+      "uid": "c54c00a5b7fba94b9fbc940de38a7beb",
+      "css": "location-circled",
+      "code": 59393,
+      "src": "elusive"
+    }
+  ]
+}
